@@ -1,0 +1,91 @@
+body{
+    border: 10px groove greenyellow;
+    margin: 0px;
+    background-image: url(./WhatsApp\ Image\ 2022-03-04\ at\ 12.20.34\ AM.jpeg);
+}
+.test{
+    height: 70px;
+    width: 175px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    font-family: "Gill Sans", sans-serif;
+    padding: 10px 10px 15px 10px;
+    border: 5px solid red;
+    margin:40px 0px 0px 40px ;
+    border-radius: 30px;
+}
+.test2{
+    height: 20px;
+    width: 350px;
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    display: inline;
+    font-family: "Gill Sans", sans-serif;
+    padding: 20px 20px 10px 30px;
+    border: 5px solid red;
+    margin: -300px 0px 0px 125px;
+    border-radius: 30px;
+}
+.test3{
+    height: 80px;
+    width: 225px;
+    color: white;
+    background-color: black;
+    padding: 10px 50px;
+    border: 5px solid red;
+    font-size: 20px;
+    font-family: "Gill Sans", sans-serif;
+    border-radius: 30px;
+    margin: -90px 10px 0px 980px;
+}
+.circle{
+    height: 200px;
+    width: 250px;
+    color: black;
+    background-color: rgb(67, 167, 142);
+    padding: 50px 0px 0px 0px;
+    border-radius: 50%;
+    border: 10px solid gray;
+    margin: 0px 950px 0px 40px;
+    text-decoration: underline;
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+}
+form{
+    height: 700px;
+    color: brown;
+    font-size: 20px;
+    margin:0px 300px 0px 550px;
+    border: 5px dashed red;
+    text-align: center;
+    margin-top: 100px;
+}
+#one{
+    color: white;
+    background-color: black;
+    padding: 10px 80px;
+    border: 5px solid red;
+    margin: 25px 650px 0px 450px;
+    border-radius: 30px;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    align-content: center;
+}
+.flex-item{
+    background-color: aqua;
+    color: rgb(56, 4, 56);
+    box-sizing: border-box;
+    height: 280px;
+    width: 350px;
+    text-align: center;
+    margin: 80px;
+    border-radius: 30px;
+    border: 2px solid green;
+    margin: 40px;
+}
